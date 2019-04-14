@@ -1,4 +1,4 @@
-package ATM.src;
+package atm;
 
 import java.lang.*;
 
